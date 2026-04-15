@@ -305,6 +305,12 @@ body {
     letter-spacing: 0.5px;
 }
 
+.command-table th:first-child,
+.command-table td:first-child {
+    width: 280px;
+    min-width: 280px;
+}
+
 .command-table tbody td {
     padding: 12px 15px;
     border-bottom: 1px solid var(--border-light);
