@@ -6,7 +6,7 @@
 
 ## 🌐 Live Website
 
-**Visit the cheat sheet:** [GitHub Copilot CLI Cheat Sheet](https://tdblackston0.github.io/GHCP-CLI-Cheat-sheet-/)
+**Visit the cheat sheet:** [GitHub Copilot CLI Cheat Sheet](https://tdblackston0.github.io/GHCP-CLI-Cheat-sheet/)
 
 ## ✨ Features
 
